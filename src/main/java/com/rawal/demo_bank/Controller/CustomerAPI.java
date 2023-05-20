@@ -92,8 +92,7 @@ public class CustomerAPI {
 			errorInfo.setErrorMessage(errorMsg);
 		
 			return new ResponseEntity<>(errorInfo, HttpStatus.BAD_REQUEST);
-	}
-	    
+	}	    
 
 	
 }

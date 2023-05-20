@@ -1,4 +1,4 @@
-package com.rawal.demo_bank.sercurity;
+package com.rawal.demo_bank.security;
 
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
